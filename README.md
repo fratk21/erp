@@ -17,7 +17,7 @@ Flutter ile geliştirilmiş olup, hızlı ve kullanıcı dostu arayüzü ile iş
 - 💡 **Stok ve Sipariş Analiz Dashboardu**  
   7 günlük stok değişimi grafikleri, sipariş durumu özetleri ile iş süreçlerinizi daha iyi analiz edin.
 
-- ⚡ **Offline JSON Veri Desteği (Sunucu Gerektirmez)**  
+- ⚡ **JSON Veri Desteği**  
   JSON tabanlı veri yapısı sayesinde internet bağlantısı olmadan da test edebilirsiniz.
 
 ## Ekran Görüntüleri
