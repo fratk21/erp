@@ -22,11 +22,11 @@ Flutter ile geliştirilmiş olup, hızlı ve kullanıcı dostu arayüzü ile iş
 
 ## Ekran Görüntüleri
 
-| Ana Sayfa | Siparişler | Stok Detay |
+| Ana Sayfa | Stok Detay | Müşteri Detay |
 |-----------|------------|-------------|
 | ![0](https://github.com/fratk21/erp/blob/main/erp_station/screenshot/0.jpg) | ![1](https://github.com/fratk21/erp/blob/main/erp_station/screenshot/1.jpg) | ![2](https://github.com/fratk21/erp/blob/main/erp_station/screenshot/2.jpg) |
 
-| Müşteri Detay & Ekstre |
+| Siparişler |
 |------------------------|
 | ![3](https://github.com/fratk21/erp/blob/main/erp_station/screenshot/3.jpg) |
 
